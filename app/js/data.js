@@ -587,7 +587,7 @@ App.data = [
   {
     "2013 Rank":54,
     "City":"Honolulu",
-    "State":"Hawai'i",
+    "State":"Hawaii",
     "2013 Estimate":"347,884",
     "2010 Census":"337,256",
     "Change":"3.15%",
